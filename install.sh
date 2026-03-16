@@ -85,7 +85,7 @@ start_script() {
   echo -e "${BOLD}${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BOLD}${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BOLD}${BLUE}[+]                AUTO INSTALLER THEME             [+]${NC}"
-  echo -e "${BOLD}${BLUE}[+]                  © RENDZZ OFFC                  [+]${NC}"
+  echo -e "${BOLD}${BLUE}[+]                  © RG STUDIO OFFC                  [+]${NC}"
   echo -e "${BOLD}${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BOLD}${BLUE}[+] =============================================== [+]${NC}"
   echo -e ""
@@ -123,7 +123,7 @@ start_script() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BOLD}${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BOLD}${BLUE}[+]               RENDZZ OFFC LICENSE               [+]${NC}"
+  echo -e "${BOLD}${BLUE}[+]               RG STUDIO OFFC LICENSE               [+]${NC}"
   echo -e "${BOLD}${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${BOLD}${YELLOW}MASUKKAN AKSES TOKEN: ${NC}"
