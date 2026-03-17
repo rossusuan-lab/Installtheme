@@ -2,7 +2,7 @@
 
 ![Preview](https://files.catbox.moe/bl83or.jpg)
 
-Selamat datang di Installer Theme Otomatis by **RENDZZ OFFICIAL**.
+Selamat datang di Installer Theme Otomatis by **RG STUDIO OFFICIAL**.
 
 🎥 YouTube Creator Resmi :  
 https://youtube.com/@renmodz45
