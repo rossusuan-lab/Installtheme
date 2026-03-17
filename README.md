@@ -1,6 +1,6 @@
 # 🚀 INSTALL THEME AUTO SCRIPT
 
-![Preview](https://files.clonix.cam/images/7e67f4d44fdc.png)
+![Preview](https://files.catbox.moe/37snoy.png)
 
 Selamat datang di Installer Theme Otomatis by **RG STUDIO OFFICIAL**.
 
