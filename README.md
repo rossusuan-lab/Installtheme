@@ -4,9 +4,6 @@
 
 Selamat datang di Installer Theme Otomatis by **RG STUDIO OFFICIAL**.
 
-🎥 YouTube Creator Resmi :  
-https://youtube.com/@renmodz45
-
 Script ini dibuat untuk mempermudah pemasangan theme pada panel secara cepat, praktis, dan tanpa konfigurasi manual yang ribet.  
 Cocok untuk kamu yang ingin hasil instan tanpa takut salah edit file.
 
